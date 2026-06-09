@@ -4,7 +4,8 @@
 }
 
 body {
-   background: rgb(137, 192, 205);
+   /* background: rgb(137, 192, 205); */
+     background: linear-gradient(to right, aqua, lightgray);
     color: #fff;
 }
 
